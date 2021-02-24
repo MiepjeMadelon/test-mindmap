@@ -48,7 +48,7 @@ class Circle extends React.Component {
 
   render() {
     return (
-      <div> //ik heb het canvas object niet gebruikt aangezien daar knoppen op maken eigenlijk bij elke muisklik kijken of de coordinaten overeen komen.
+      <div> //ik heb het canvas object niet gebruikt aangezien daar knoppen op maken eigenlijk bij elke muisklik kijken of de coordinaten overeen komen
         <h1>{this.state.name}</h1>
         <div>{this.handleItems(this.state.items)}<div>
       </div>
