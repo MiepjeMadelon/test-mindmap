@@ -1,7 +1,7 @@
 // JS file zodat ik inline comments kan doen.
 // Je kan example1 in je code krijgen door de volgende regel te gebruiken
 // import { circleA } from './example'
-// Of je kan natuurlijk copy pasten.
+// Of je kan natuurlijk copy pasten. 
 
 export const circleA = {
     "cid": 1,
